@@ -1,7 +1,7 @@
 # AutoCleaning_Project
 #  SQL Auto Data Cleaner using Streamlit + AutoClean
 
-This project is a beginner-friendly Streamlit web app that connects to a SQL Server database, loads a selected table, and automatically cleans the data using the **AutoClean** library. It also allows exporting cleaned data as CSV or saving it back to the SQL Server.
+This project is Streamlit web app that connects to a SQL Server database, loads a selected table, and automatically cleans the data using the **AutoClean** library. It also allows exporting cleaned data as CSV or saving it back to the SQL Server.
 
 ---
 
